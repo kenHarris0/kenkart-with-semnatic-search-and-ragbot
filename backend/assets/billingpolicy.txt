@@ -1,0 +1,64 @@
+# Ken Kart – Shipping, Returns, Refunds & Policies
+
+This document covers Ken Kart's shipping, cancellation, return, refund, and account-related policies. Use it to answer policy questions accurately and consistently.
+
+## Shipping & Delivery
+
+- **Delivery estimate:** Shown on the product page and at checkout, typically ranging from 1–7 business days depending on the item, seller location, and delivery pincode.
+- **Delivery speed options:** Standard (free or low-cost, longer window) and Express (paid, faster window) are offered on eligible products.
+- **Shipping fees:** Free above a minimum order value (varies by category/seller); otherwise a flat or weight-based shipping fee applies, shown before checkout.
+- **Failed delivery attempts:** The courier typically attempts delivery up to 3 times before the order is returned to the seller. Users are notified before each attempt via SMS/push notification.
+
+## Order Cancellation Policy
+
+- Orders can be cancelled **free of charge** any time before the order status changes to "Shipped."
+- Once an order is "Shipped," it generally cannot be cancelled — the user must wait for delivery and then initiate a return instead.
+- Cancelling after payment has been made triggers an automatic refund per the Refunds section below.
+
+## Return Policy
+
+- **Return window:** Most items can be returned within 7–10 days of delivery; the exact window is shown on each product's page, as it can vary by category (e.g., electronics vs. perishables) and by seller.
+- **Non-returnable categories:** Perishable goods, personal care/hygiene items, and made-to-order/customized products are typically non-returnable unless received damaged or defective — this is disclosed on the product page.
+- **Condition for return:** Items should generally be unused, in original packaging, with tags/labels intact, unless the return reason is "damaged," "defective," or "wrong item received."
+- **Return pickup:** Ken Kart arranges a courier pickup from the delivery address for most returns; in some cases, self-ship return options are provided instead.
+
+## Refund Policy
+
+Refunds are considered in the following cases:
+1. **Order cancelled before shipping** — full refund of the amount paid.
+2. **Item returned within the eligible window and in acceptable condition** — full refund per the item's return policy.
+3. **Wrong item, missing item, or damaged item delivered** — full refund or free replacement, user's choice where available.
+4. **Order not delivered / lost in transit** — full refund if delivery cannot be confirmed within the expected timeframe.
+
+Refunds are **not** typically issued for:
+- Items outside the return window with no defect claim.
+- Non-returnable category items in acceptable, undamaged condition.
+- Change-of-mind returns on items explicitly marked non-returnable.
+
+**Refund timeline:** Refunds to the original payment method typically take 5–7 business days after approval to reflect, depending on the bank/payment provider. Refunds to the Ken Kart Wallet are instant upon approval. Cash on Delivery order refunds are processed via bank transfer or Ken Kart Wallet, since no original payment method exists to refund to.
+
+## Disputing a Charge or Order Issue
+
+Users can raise a dispute from My Orders → select the order → "Report an Issue" or "Return/Refund." Provide the order ID, description of the issue, and photos where relevant (e.g., damaged item, wrong item). Disputes are typically reviewed within 24–48 hours.
+
+## Account Suspension & Termination
+
+- Accounts may be temporarily suspended for repeated payment failures, fraudulent returns/refund abuse, or policy violations (e.g., fake reviews).
+- Users can appeal a suspension via Help & Support → "Appeal Account Action."
+- Users may request permanent account deletion at any time via Account → Settings → Delete Account; this is irreversible and removes saved addresses, payment methods, and order history, subject to Ken Kart's data retention policy.
+
+## Data & Privacy Notes (Support-Relevant)
+
+- Delivery addresses and order data are used to fulfil orders and are shared with the relevant courier/seller only as needed for delivery.
+- Payment details are processed via PCI-compliant payment partners; Ken Kart does not store full card numbers.
+- Order and invoice data may be retained for a limited period after account deletion for tax and legal record-keeping purposes.
+- For full details, direct users to the in-app Privacy Policy under Account → Settings → Legal.
+
+## When to Escalate to a Human Agent
+
+The support bot should hand off to a human agent for:
+- Refunds/disputes above a threshold amount defined by the finance team.
+- Suspected fraud (fake tracking, seller scams, account takeover).
+- Safety-related product complaints (hazardous, unsafe, or counterfeit goods).
+- Legal, regulatory, or data-deletion requests.
+- Repeated unresolved issues after troubleshooting steps have been exhausted.

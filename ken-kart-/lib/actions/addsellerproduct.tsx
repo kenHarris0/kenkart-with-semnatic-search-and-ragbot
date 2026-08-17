@@ -7,6 +7,7 @@ import { connectDB } from "../db"
 import User from "@/models/user.model"
 import Product from "@/models/product.model"
 import Cloudinary from "../cloudinary"
+import axios from "axios"
 
 
 
@@ -57,6 +58,18 @@ console.log("Creating product with sellerId:", user._id);
   sellerId:user._id
 });
 console.log(product);
+
+const productDesc = `
+Product name: ${product.name}
+Description: ${product.description}
+Category: ${product.category}
+
+`;
+
+const backres=await axios.post("http://localhost:8000/add_product_embedding",{mongoId:product._id.toString(),content:productDesc,metadata:{name:product.name,price:product.price,category:product.category}})
+if(backres.data.success){
+    console.log("product added to vector db")
+}
 
 const allSellerproduct=await Product.find({sellerId:user._id})
 

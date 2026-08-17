@@ -1,0 +1,61 @@
+Ken Kart – Frequently Asked Questions
+
+This document answers the most common questions users ask about Ken Kart, the online shopping app/website. It is intended as a knowledge source for the Ken Kart support chatbot.
+
+About Ken Kart
+
+What is Ken Kart? Ken Kart is an online marketplace where users can browse, order, and get products delivered — including electronics, fashion, home goods, groceries, and more — from a single app/website.
+
+Which platforms is Ken Kart available on? Ken Kart is available as a website, Android app, and iOS app. Your cart and orders sync across all platforms when logged into the same account.
+
+Do I need an account to shop? You can browse and add items to a cart as a guest, but you must create an account or log in to place an order.
+
+Account & Profile
+
+How do I create an account? Sign up with your email or phone number, verify with the OTP/verification link sent to you, and add your name and default address.
+
+How do I reset my password? Tap "Forgot Password" on the login screen, enter your registered email/phone, and follow the OTP or reset link.
+
+How do I add or edit a delivery address? Go to Account → Addresses → Add New Address, or tap an existing address to edit it. You can save multiple addresses (Home, Work, etc.) and choose one at checkout.
+
+How do I change my email or phone number on file? Go to Account → Profile Settings → Edit. Changing the phone/email may require OTP verification on both the old and new number/email for security.
+
+How do I delete my account? Go to Account → Settings → Delete Account. This permanently removes your saved addresses, payment methods, and order history, subject to the data retention noted in the Policies document.
+
+Browsing & Ordering
+
+How do I search for a product? Use the search bar at the top of the app/site. You can filter results by category, price range, brand, rating, and delivery speed.
+
+How do I know if a product is genuine/authentic? Ken Kart requires sellers to list accurate product details. Look for the "Ken Kart Assured" badge on listings that have been quality-checked by Ken Kart directly.
+
+Can I compare products before buying? Yes, use the "Compare" option available on select category pages (e.g., electronics) to view specs side by side.
+
+How do I use a coupon or promo code? Add items to your cart, go to checkout, and enter the code in the "Apply Coupon" field before placing the order. Only one coupon can typically be applied per order unless stated otherwise.
+
+Why is a product showing "out of stock"? The seller has no current inventory. You can tap "Notify Me" to get an alert when it's back in stock.
+
+Orders & Delivery
+
+How do I track my order? Go to Account → My Orders → select the order → "Track Order" to see live status and estimated delivery date.
+
+Can I change my delivery address after placing an order? Address changes are only possible before the order is packed/shipped. Go to My Orders → select order → "Change Address," if the option is still available.
+
+Can I cancel an order? Yes, as long as the order hasn't been shipped. Go to My Orders → select order → "Cancel Order." See the Policies document for cancellation timing rules.
+
+What if my order arrives damaged, wrong, or incomplete? Go to My Orders → select order → "Report an Issue" and choose the relevant reason. You'll be guided through a replacement or refund based on the seller's policy.
+
+Why is my delivery delayed? Delays can happen due to courier issues, weather, high order volumes, or address verification problems. Check the tracking timeline for the latest status; if there's no update for 48+ hours, contact support.
+
+Payments
+
+What payment methods does Ken Kart accept? Credit/debit cards, UPI, net banking, mobile wallets, Cash on Delivery (where available), and the Ken Kart Wallet.
+
+Is Cash on Delivery (COD) available on all orders? COD availability depends on the product, seller, and delivery pincode — it's shown on the product page and at checkout if eligible.
+
+Where can I see my invoices? Go to My Orders → select the order → "Download Invoice."
+
+Support
+
+How do I contact Ken Kart support? In-app: Account → Help & Support → Chat with us. You can also email support@kenkart.app.
+
+What are support hours? In-app chat support is available 24/7. Phone support is available 8 AM–10 PM local time, daily.

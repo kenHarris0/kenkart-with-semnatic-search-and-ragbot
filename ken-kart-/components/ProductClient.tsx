@@ -7,33 +7,74 @@ import Image from 'next/image'
 
 import Link from 'next/link'
 import { IProduct } from '@/models/types'
-import { useState } from 'react'
-
+import { useEffect, useState } from 'react'
+import axios from 'axios'
+import { Button } from './ui/button'
 
 
 const ProductClient = ({products}:{products:IProduct[]}) => {
 
     const [search,setsearch]=useState<string>("")
 
-    const filtereditems=products.filter((item)=>item.name.trim().toLowerCase().startsWith(search))
+  const [filtereditems,setfiltered]=useState<string[] | null>(null)
+
+    const handleSemanticSearch = async (
+  e: React.FormEvent<HTMLFormElement>
+) => {
+  e.preventDefault()
+
+  try {
+    const res = await axios.post(
+      "http://localhost:8000/search_product_embedding",
+      { query: search }
+    )
+
+    console.log("SEARCH RESPONSE:", res.data)
+    console.log("PRODUCT IDS:", res.data.results)
+
+    if (res.data.success) {
+      setfiltered(res.data.results)
+    }
+    else{
+      setfiltered(null)
+    }
+  } catch (err) {
+    console.log(err)
+  }
+}
+
+  
+
+const finalproducts: IProduct[] = filtereditems
+  ? filtereditems.flatMap(id =>
+  products.filter(product =>
+    product._id?.toString() === id
+  )
+)
+  : products 
 
   return (
     <>
      <div className="mb-10">
     <Field className="max-w-lg">
       <FieldTitle>Search Products</FieldTitle>
-      <Input
+      <form onSubmit={handleSemanticSearch} className='flex items-between  gap-10'>
+         <Input
         placeholder="Search..."
         className="rounded-lg"
         value={search}
         onChange={(e)=>setsearch(e.target.value)}
       />
+      <Button type='submit' className='cursor-pointer'>Search</Button>
+
+      </form>
+     
     </Field>
   </div>
 
   {/* Products */}
   <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
-    {filtereditems?.map((item) => (
+    {finalproducts?.map((item:IProduct) => (
       <Link href={`/products/${item._id}`} key={item._id}>
         <Card
           

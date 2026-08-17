@@ -1,0 +1,74 @@
+# Ken Kart – Troubleshooting Guide
+
+This document lists common issues Ken Kart users face and the recommended resolution steps. Use it to answer diagnostic support queries.
+
+## Login & Account Access Issues
+
+**Issue: Not receiving OTP**
+- Confirm the phone number/email entered is correct.
+- Check spam/junk folder for email OTPs.
+- Wait 60 seconds before requesting a resend (rate-limited to prevent abuse).
+- If still not received after 3 attempts, suggest logging in via the alternate method (email instead of phone, or vice versa).
+
+**Issue: App crashes or freezes**
+- Ask the user to update to the latest app version from the Play Store/App Store.
+- Suggest clearing app cache (Android: Settings → Apps → Ken Kart → Storage → Clear Cache).
+- If the crash persists, suggest uninstalling and reinstalling the app (this does not delete their account, since data is stored server-side).
+
+**Issue: "Account locked" or "Too many attempts" message**
+- This is a temporary security lockout after repeated failed logins. Ask the user to wait 30 minutes or use "Forgot Password" to reset immediately.
+
+## Cart & Checkout Issues
+
+**Issue: Item disappears from cart / shows unavailable at checkout**
+- The item may have gone out of stock or the seller removed the listing between adding to cart and checkout. Advise checking for similar alternatives via search.
+
+**Issue: Coupon code not applying**
+- Confirm the code hasn't expired and check for minimum order value or category restrictions listed in the coupon's terms.
+- Confirm no other coupon is already applied (most orders allow only one).
+- Confirm the items in cart are eligible (some coupons exclude certain categories/sellers).
+
+**Issue: Checkout page stuck loading or fails to proceed**
+- Ask the user to check their internet connection.
+- Suggest refreshing/restarting the app or trying the website version instead.
+- If the issue persists, ask for a screenshot and escalate as a technical bug.
+
+## Payment Issues
+
+**Issue: Payment failed but amount was deducted**
+- Reassure the user this typically auto-reverses within 5–7 business days if the order wasn't confirmed.
+- Confirm via Account → My Orders whether the order actually went through despite the error message.
+- If the order does not appear and funds aren't reversed after 7 business days, escalate as a payment reconciliation case with the transaction ID/reference number.
+
+**Issue: Preferred payment method not showing at checkout**
+- Some payment methods are restricted by order value, product category, or delivery pincode (e.g., COD not available for high-value electronics in some areas).
+- Confirm the saved card/UPI hasn't expired or been removed under Account → Payments.
+
+**Issue: Double charged for one order**
+- Ask for the order ID and payment reference/transaction ID.
+- This is treated as a billing dispute — see the Policies document for the refund process. Do not promise an automatic refund; escalate to billing support with the evidence provided.
+
+## Order & Delivery Issues
+
+**Issue: Order stuck at "Confirmed" or "Packed" with no movement**
+- Advise checking the tracking timeline for the last update time.
+- If there's no status change for 48+ hours, this may indicate a courier delay or a seller dispatch issue — escalate to the order-support team with the order ID.
+
+**Issue: Order marked "Delivered" but not received**
+- Ask the user to check with household members, building reception/security, and neighbors, as couriers sometimes hand off to others.
+- Check the delivery proof (photo/signature) if available on the tracking page.
+- If genuinely not received, this should be escalated immediately as a lost-delivery claim — do not ask the user to simply "wait and see," as such claims are time-sensitive.
+
+**Issue: Wrong item, missing item, or damaged item received**
+1. Ask the user to check the order manifest against what was actually received.
+2. Advise them to keep the packaging and take photos of the item/damage before disposing of anything.
+3. Guide them to My Orders → select order → "Report an Issue" → choose the correct reason (Wrong Item / Missing Item / Damaged) within the return window.
+4. Explain that a replacement or refund will be processed per the seller's return policy for that item (shown on the product page).
+
+**Issue: Return pickup not scheduled or missed**
+- Confirm the return request was successfully submitted (check My Orders → Returns for status).
+- Ask the user to re-attempt scheduling a pickup slot; if courier repeatedly misses pickup, escalate to logistics support.
+
+## General Escalation Guidance
+
+If an issue cannot be resolved with the steps above, or involves a safety concern (e.g., a hazardous or unsafe product received), instruct the user not to use the product and escalate directly to a human support agent rather than continuing troubleshooting in-app.

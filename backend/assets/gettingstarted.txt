@@ -1,0 +1,61 @@
+# Ken Kart – Getting Started Guide
+
+This guide walks a new user through setting up Ken Kart and placing their first order. Use this as a reference for onboarding-related support questions.
+
+## Step 1: Download & Install
+
+Download Ken Kart from the Google Play Store (Android) or the App Store (iOS), or visit www.kenkart.app on desktop/mobile browser. Search "Ken Kart" and look for the official app icon.
+
+## Step 2: Create Your Account
+
+1. Open the app and tap "Sign Up."
+2. Enter your mobile number or email address.
+3. Enter the OTP sent to you within 5 minutes, or click the verification link if you signed up with email.
+4. Set a password and optionally enable biometric login (fingerprint/Face ID) on mobile for faster access next time.
+
+## Step 3: Complete Your Profile
+
+1. Enter your name and (optionally) a profile photo.
+2. Add your delivery address(es) — you can save multiple (Home, Work, etc.) and pick a default.
+3. Set your communication preferences (order updates via SMS, email, and/or push notification).
+
+## Step 4: Add a Payment Method (Optional at This Stage)
+
+1. Go to Account → Payments → Add Payment Method.
+2. Choose card, UPI, net banking, or wallet top-up.
+3. You can also choose Cash on Delivery (COD) at checkout for eligible orders instead of saving a payment method now.
+4. Payment is only required/collected at checkout, not at sign-up.
+
+## Step 5: Browse and Find Products
+
+1. Use the search bar to look for specific products, or browse by category from the home screen (Electronics, Fashion, Home & Kitchen, Groceries, etc.).
+2. Use filters (price, brand, rating, delivery speed, "Ken Kart Assured") to narrow results.
+3. Tap a product to view details, images, specifications, seller info, and customer reviews.
+
+## Step 6: Add to Cart and Checkout
+
+1. Tap "Add to Cart" on the product page, or "Buy Now" to go straight to checkout.
+2. Review your cart — adjust quantities or remove items as needed.
+3. Apply a coupon code if you have one.
+4. Select a delivery address (or add a new one).
+5. Choose a delivery speed if multiple options are shown (Standard, Express, etc.).
+6. Choose a payment method and confirm the order.
+
+## Step 7: Track Your Order
+
+1. Go to Account → My Orders to see all current and past orders.
+2. Tap an order to view its live tracking status: Confirmed → Packed → Shipped → Out for Delivery → Delivered.
+3. Enable push notifications to get real-time updates at each stage.
+
+## Step 8: After Delivery
+
+1. Once delivered, you can rate and review the product from the order page.
+2. If there's an issue with the item (damaged, wrong, not as described), use "Report an Issue" on the order within the applicable return window (see Policies document).
+3. Your invoice is available for download from the order page at any time.
+
+## Tips for New Users
+
+- Add items to your "Wishlist" (heart icon) to save them for later without adding to cart.
+- Turn on "Notify Me" for out-of-stock items you want.
+- Check the seller rating and "Ken Kart Assured" badge before buying from a new seller.
+- Use the Ken Kart Wallet to get faster checkout and occasional cashback offers.

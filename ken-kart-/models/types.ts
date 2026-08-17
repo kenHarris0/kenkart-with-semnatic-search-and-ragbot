@@ -55,3 +55,16 @@ export interface IOrder{
 
 
 }
+
+export interface IChat{
+    _id?:string
+    userId:string,
+    name:string
+}
+
+export interface IMessage{
+    _id?:string,
+    chatId:string,
+    role:string,
+    content:string
+}
