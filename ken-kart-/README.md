@@ -28,6 +28,21 @@ Kenkart is a premium, feature-rich, role-based e-commerce platform built using N
   <img src="public/readme/seller%20dashbaord.png" width="48%" alt="Seller Portal Dashboard" />
 </p>
 
+### AI Features
+
+Kenkart also includes AI-powered shopping features:
+
+- Semantic product search using vector embeddings
+- RAG-based shopping assistant
+- Context-aware chatbot conversations
+- Chat history and multiple conversations
+
+<p align="center">
+  <img src="public/readme/PAGE8.png" width="48%" alt="Semantic Search" />
+  <img src="public/readme/PAGE9.png" width="48%" alt="RAG Shopping Assistant" />
+</p>
+
+
 ---
 
 ## 🌟 Key Features
